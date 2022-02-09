@@ -1,7 +1,8 @@
 # UppyYii2Uploader
 Multi uploading with Uppy and Yii2
 
-Here is my implemetation for using multiuploading for Yii2 and appy in Create/Update actions. You can use this solution in other frameworks as well as Laravel, Symfony and etc.
+Here is my implemetation for using multiuploading for Yii2 and appy in Create action. 
+You can use this solution in other frameworks as well as Laravel, Symfony and etc.
 
 Please see the source code samples.
 
